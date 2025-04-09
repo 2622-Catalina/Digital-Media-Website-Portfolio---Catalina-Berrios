@@ -1,0 +1,35 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #ffffff;
+  color: #4982FF;
+  font-size: 14px}
+
+body {
+  text-align: left;
+  position: relative;
+}
+
+.left-aligned {
+  text-align: left;
+  margin-left: 20px;
+}
+
+.right-aligned {
+  text-align: right;
+  margin-right: 20px;
+}
+
+.centered {
+  text-align: center;
+  margin: 0 auto;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+}
